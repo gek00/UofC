@@ -1,0 +1,53 @@
+C:\Users\Gek\source\repos\Hours Worked\Hours Worked\bin\Debug\Hours Worked.exe.config
+C:\Users\Gek\source\repos\Hours Worked\Hours Worked\bin\Debug\Hours Worked.exe
+C:\Users\Gek\source\repos\Hours Worked\Hours Worked\bin\Debug\Hours Worked.pdb
+C:\Users\Gek\source\repos\Hours Worked\Hours Worked\obj\Debug\Hours Worked.csprojResolveAssemblyReference.cache
+C:\Users\Gek\source\repos\Hours Worked\Hours Worked\obj\Debug\Hours_Worked.Form1.resources
+C:\Users\Gek\source\repos\Hours Worked\Hours Worked\obj\Debug\Hours_Worked.Properties.Resources.resources
+C:\Users\Gek\source\repos\Hours Worked\Hours Worked\obj\Debug\Hours Worked.csproj.GenerateResource.Cache
+C:\Users\Gek\source\repos\Hours Worked\Hours Worked\obj\Debug\Hours Worked.csproj.CoreCompileInputs.cache
+C:\Users\Gek\source\repos\Hours Worked\Hours Worked\obj\Debug\Hours Worked.exe
+C:\Users\Gek\source\repos\Hours Worked\Hours Worked\obj\Debug\Hours Worked.pdb
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked\Hours Worked\bin\Debug\Hours Worked.exe.config
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked\Hours Worked\bin\Debug\Hours Worked.exe
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked\Hours Worked\bin\Debug\Hours Worked.pdb
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked\Hours Worked\obj\Debug\Hours Worked.csprojResolveAssemblyReference.cache
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked\Hours Worked\obj\Debug\Hours_Worked.HoursWorked.resources
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked\Hours Worked\obj\Debug\Hours_Worked.Properties.Resources.resources
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked\Hours Worked\obj\Debug\Hours Worked.csproj.GenerateResource.Cache
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked\Hours Worked\obj\Debug\Hours Worked.csproj.CoreCompileInputs.cache
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked\Hours Worked\obj\Debug\Hours Worked.exe
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked\Hours Worked\obj\Debug\Hours Worked.pdb
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Revised)\Hours Worked\bin\Debug\Hours Worked.exe.config
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Revised)\Hours Worked\bin\Debug\Hours Worked.exe
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Revised)\Hours Worked\bin\Debug\Hours Worked.pdb
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Revised)\Hours Worked\obj\Debug\Hours Worked.csprojResolveAssemblyReference.cache
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Revised)\Hours Worked\obj\Debug\Hours_Worked.HoursWorked.resources
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Revised)\Hours Worked\obj\Debug\Hours_Worked.Properties.Resources.resources
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Revised)\Hours Worked\obj\Debug\Hours Worked.csproj.GenerateResource.Cache
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Revised)\Hours Worked\obj\Debug\Hours Worked.csproj.CoreCompileInputs.cache
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Revised)\Hours Worked\obj\Debug\Hours Worked.exe
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Revised)\Hours Worked\obj\Debug\Hours Worked.pdb
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Copy)\Hours Worked\bin\Debug\Hours Worked.exe.config
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Copy)\Hours Worked\bin\Debug\Hours Worked.exe
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Copy)\Hours Worked\bin\Debug\Hours Worked.pdb
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Copy)\Hours Worked\obj\Debug\Hours Worked.csprojResolveAssemblyReference.cache
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Copy)\Hours Worked\obj\Debug\Hours_Worked.HoursWorked.resources
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Copy)\Hours Worked\obj\Debug\Hours_Worked.Properties.Resources.resources
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Copy)\Hours Worked\obj\Debug\Hours Worked.csproj.GenerateResource.Cache
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Copy)\Hours Worked\obj\Debug\Hours Worked.csproj.CoreCompileInputs.cache
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Copy)\Hours Worked\obj\Debug\Hours Worked.exe
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Copy)\Hours Worked\obj\Debug\Hours Worked.pdb
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\bin\Debug\Hours Worked.exe.config
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\bin\Debug\Hours Worked.exe
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\bin\Debug\Hours Worked.pdb
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\obj\Debug\Hours Worked.csprojResolveAssemblyReference.cache
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\obj\Debug\Hours_Worked.HoursWorked.resources
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\obj\Debug\Hours_Worked.Properties.Resources.resources
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\obj\Debug\Hours Worked.csproj.GenerateResource.Cache
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\obj\Debug\Hours Worked.exe
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\obj\Debug\Hours Worked.pdb
+C:\Users\Gek\Documents\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\obj\Debug\Hours Worked.csproj.CoreCompileInputs.cache
+C:\Users\Gek\Documents\UCalgary\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\bin\Debug\Hours Worked.exe.config
+C:\Users\Gek\Documents\UCalgary\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\obj\Debug\Hours Worked.exe
+C:\Users\Gek\Documents\UCalgary\Intro to C#(UCalgary)\Hours Worked(Updated)\Hours Worked\obj\Debug\Hours Worked.pdb

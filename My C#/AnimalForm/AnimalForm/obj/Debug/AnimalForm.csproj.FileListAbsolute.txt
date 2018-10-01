@@ -1,0 +1,15 @@
+C:\Users\Gek\source\repos\AnimalForm\AnimalForm\obj\Debug\AnimalForm.csprojResolveAssemblyReference.cache
+C:\Users\Gek\source\repos\AnimalForm\AnimalForm\obj\Debug\AnimalForm.Form1.resources
+C:\Users\Gek\source\repos\AnimalForm\AnimalForm\obj\Debug\AnimalForm.Properties.Resources.resources
+C:\Users\Gek\source\repos\AnimalForm\AnimalForm\obj\Debug\AnimalForm.csproj.GenerateResource.Cache
+C:\Users\Gek\source\repos\AnimalForm\AnimalForm\obj\Debug\AnimalForm.csproj.CoreCompileInputs.cache
+C:\Users\Gek\Documents\UCalgary\C# 2\AnimalForm\AnimalForm\obj\Debug\AnimalForm.csprojResolveAssemblyReference.cache
+C:\Users\Gek\Documents\UCalgary\C# 2\AnimalForm\AnimalForm\obj\Debug\AnimalForm.Form1.resources
+C:\Users\Gek\Documents\UCalgary\C# 2\AnimalForm\AnimalForm\obj\Debug\AnimalForm.Properties.Resources.resources
+C:\Users\Gek\Documents\UCalgary\C# 2\AnimalForm\AnimalForm\obj\Debug\AnimalForm.csproj.GenerateResource.Cache
+C:\Users\Gek\Documents\UCalgary\C# 2\AnimalForm\AnimalForm\obj\Debug\AnimalForm.csproj.CoreCompileInputs.cache
+C:\Users\Gek\Documents\UCalgary\C# 2\AnimalForm\AnimalForm\bin\Debug\AnimalForm.exe.config
+C:\Users\Gek\Documents\UCalgary\C# 2\AnimalForm\AnimalForm\bin\Debug\AnimalForm.exe
+C:\Users\Gek\Documents\UCalgary\C# 2\AnimalForm\AnimalForm\bin\Debug\AnimalForm.pdb
+C:\Users\Gek\Documents\UCalgary\C# 2\AnimalForm\AnimalForm\obj\Debug\AnimalForm.exe
+C:\Users\Gek\Documents\UCalgary\C# 2\AnimalForm\AnimalForm\obj\Debug\AnimalForm.pdb
